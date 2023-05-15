@@ -1,10 +1,6 @@
 # Text shown on the index page.
-index_title: I Can't Believe It's Not a Cookbook!
-index_description:
-  Po-tay-toes. Boil 'em, mash 'em, stick 'em in a stew. Lovely big golden chips
-  with a nice piece of fried fish. Even you couldn't say no to that. My mom
-  always said life was like a box of chocolates. *You never know what you're
-  gonna get.*
+index_title: Cooking Every National Dish | Charles Tang
+index_description: Welcome to my food blog, where I will be cooking every national dish for my Senior Independent Study Project (SISP) at Mass Academy!
 
 # Whether to show each recipe's image, if available, on the index page. To
 # enable, set this option to any non-empty value (other than "false" in recent
@@ -26,7 +22,7 @@ strings:
   sour_label: Sour
   bitter_label: Bitter
   umami_label: Umami
-  footer_text: Enjoy!
+  footer_text: Please don't sue me, I'm just a student.
   updated_on: Updated on
   edit: Edit
 
