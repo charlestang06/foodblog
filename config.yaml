@@ -1,6 +1,6 @@
 # Text shown on the index page.
 index_title: Cooking Every National Dish | Charles Tang
-index_description: Welcome to my food blog, where I will be cooking every national dish for my Senior Independent Study Project (SISP) at Mass Academy!
+index_description: Welcome to my food blog, where I will be cooking every national dish for my Senior Independent Study Project (SISP) at Mass Academy! The intent of my project is to become better at cooking and more experienced with various cultures around the globe. Furthermore, I hope to gain blogging and photography skills by creating a food blog website showcasing my work.
 
 # Whether to show each recipe's image, if available, on the index page. To
 # enable, set this option to any non-empty value (other than "false" in recent
@@ -31,7 +31,7 @@ strings:
 # page, referring you to the corresponding Markdown file on GitHub. If you've
 # got some sort of continous integration (like the included GitHub Action) set
 # up, this effectively turns your site into a wiki.
-github_url: https://github.com/doersino/nyum
+github_url: https://github.com/charlestang06/foodblog
 
 # Remote for deployment – the value of this setting will be passed to rsync as a
 # destination, so you probably want it to look like USER@SERVER:PATH. Make sure
