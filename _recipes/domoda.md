@@ -1,7 +1,7 @@
 ---
 title: Domoda (Gambia)
 category: Africa
-description: Domoda, or Domodah, is a Gambian Peanut Stew that is popular in West African countries. It is a thick stew made with peanut butter, tomatoes, and onions, and is usually served with rice. This was my first time cooking an African dish, and also the first time making a stew using a Dutch oven. Rating X/10, very good, but a too peanut buttery (I used to be allergic to nuts) for my taste.
+description: Domoda, or Domodah, is a Gambian Peanut Stew that is popular in West African countries. It is a thick stew made with peanut butter, tomatoes, and onions, and is usually served with rice. This was my first time cooking an African dish, and also the first time making a stew using a Dutch oven. Rating 4/10, it was alright, but a too peanut buttery (I used to be allergic to nuts) and I didn't really like the spice combination.
 image: domoda.jpg
 size: 6 servings
 time: 1.5 hour
