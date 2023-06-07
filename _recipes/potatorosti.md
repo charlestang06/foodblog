@@ -1,6 +1,6 @@
 ---
-title: Potato Rosti
-category: Switzerland
+title: Potato Rosti (Switzerland)
+category: Europe
 description: Potato Rosti is a pan-fried potato "pancake" that is crispy on the outside and soft on the inside. It is a popular breakfast dish in Switzerland. Rating 6/10, not bad but not great, not a huge fan of hash-brown type of foods.
 image: potatorosti.jpeg
 size: 4-6 servings
