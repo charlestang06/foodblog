@@ -1,10 +1,12 @@
 ---
 title: Domoda (Gambia)
 category: Africa
-description: Domoda, or Domodah, is a Gambian Peanut Stew that is popular in West African countries. It is a thick stew made with peanut butter, tomatoes, and onions, and is usually served with rice. This was my first time cooking an African dish, and also the first time making a stew using a Dutch oven. Rating 4/10, it was alright, but a too peanut buttery (I used to be allergic to nuts) and I didn't really like the spice combination.
+description: My second recipe! Domoda is a Gambian Peanut Stew made with peanut butter, tomatoes, and onions, and is usually served with rice. This was my first time cooking an African dish, and also the first time making a stew using a Dutch oven. 
+rating: Rating 4/10, it was alright, but a too peanut buttery (I used to be allergic to nuts) and I didn't really like the spice combination. The sweet potato doesn't go too well with the stew either.
+numeric_rating: 4
 image: domoda.jpg
 size: 6 servings
-time: 1.5 hour
+time: 1.5 hours
 author: Nisha | RainbowPlantLife
 source: https://rainbowplantlife.com/vegan-west-african-peanut-stew/
 vegan: ✓
@@ -52,7 +54,7 @@ vegan: ✓
 - `1 tbsp` lemon juice (from fresh lemon)
 - `1/2 cup` cilantro, chopped
 
-> Head a large Dutch oven over medium-high heat. Add the sunflower oil to cover the bottom.
+> Heat a large Dutch oven over medium-high heat. Add the sunflower oil to cover the bottom.
 >
 > Once the oil is heated, add the onions with a pinch of salt and cook for 5 minutes, stirring occasionally.
 >
@@ -78,7 +80,7 @@ vegan: ✓
 >
 > <video src="domodawheel.mkv" width="100%" controls></video>
 > 
-> Here are some more pictures throughout the process of cooking the stew.
+> Here are some more pictures throughout the process of cooking the stew. It was a mess at first since I put too much water (or too much sweet potatoes), so I had to scoop water out midway, the consistency turned out alright at the end, however. The simmering process did not boil out as much water as I had hoped to either.
 > 
 > <img src="domoda2.jpg" width="100%" ></img> 
 > 
@@ -86,4 +88,4 @@ vegan: ✓
 >
 > <img src="domoda4.jpg" width="100%" ></img>
 >
-> <img src=3.jpg" width="100%" ></img>
+> <img src="domoda3.jpg" width="100%" ></img>

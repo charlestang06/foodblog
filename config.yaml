@@ -1,11 +1,11 @@
 # Text shown on the index page.
 index_title: Cooking Every National Dish | Charles Tang
-index_description: Welcome to my food blog, where I will be cooking every national dish for my Senior Independent Study Project (SISP) at Mass Academy! The intent of my SISP project is spend at least 100 hours in total in order to become more skillful at cooking and experienced with various cultures and flavors around the globe. Furthermore, I hope to gain some food blogging and photography skills by creating a food blog website showcasing my work. I hope you enjoy exploring these recipes I cook!
+index_description: Welcome to my (Charles's) food blog, where I will cook every (or as many as I can) national dish for my Senior Independent Study Project (SISP) at Mass Academy!
 
 # Whether to show each recipe's image, if available, on the index page. To
 # enable, set this option to any non-empty value (other than "false" in recent
 # versions of Pandoc). To disable, keep it blank.
-show_images_on_index:
+show_images_on_index: yes
 
 # You can change the content language (really only relevant for hyphenation)
 # and related textual labels here.

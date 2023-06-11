@@ -1,7 +1,9 @@
 ---
 title: Potato Rosti (Switzerland)
 category: Europe
-description: Potato Rosti is a pan-fried potato "pancake" that is crispy on the outside and soft on the inside. It is a popular breakfast dish in Switzerland. Rating 6/10, not bad but not great, not a huge fan of hash-brown type of foods.
+description: My first recipe! Potato Rosti is an easy pan-fried potato "pancake" that is crispy on the outside and *extremely* buttery on the inside. t is a popular breakfast dish in Switzerland. This was also my first time using a box grater!
+rating: Rating 6/10, not bad but not great, not a huge fan of hash-brown type of foods.
+numeric_rating: 6
 image: potatorosti.jpeg
 size: 4-6 servings
 time: 1 hour
@@ -25,9 +27,9 @@ vegan: ✓
 ---
 
 - ### Cooking
-- `4 tbsp` butter for cooking
+- `3.5 tbsp` butter for cooking
 
-> Melt **half** the clarified butter in a non-stick pan.
+> Melt **half** the butter in a non-stick pan.
 >
 > Place the potato in pan, but do not pack down.
 >
@@ -35,9 +37,9 @@ vegan: ✓
 >
 > Flip: Cover pan with a round large plate with a handle. Holding the handle of the board
 >
-> > > Flip quickly - and with confidence!
+> > > Flip quickly - and with confidence! If you have a circular or flat large plate, you can use that instead.
 >
-> Cook second side: Melt remaining clarified butter in the pan, then slide the rosti back in and cook for 12 minutes until golden crispy.
+> Cook second side: Melt remaining butter in the pan, then slide the rosti back in and cook for 12 minutes until golden crispy.
 >
 > Slide back onto the plate, cut into 4 or 6 wedges and serve immediately!
 
@@ -45,11 +47,11 @@ vegan: ✓
 
 - ### Videos!
 
-> Watch me get Switzerland on the country picker!
+> Watch me get Switzerland on the country picker! I used a country wheel to randomize the country selected, so that I can make sure to try a variety of dishes from different countries.
 >
 > <video src="potatorostiwheel.mkv" width="100%" controls></video>
 > 
-> Watch me flip the rosti!
+> Watch me flip the rosti! I kind of fumbled with the plate but still got it anyhow! In the future, I will try to flip the rosti like a pro.
 > 
 > <video src="potatorostiflip.mp4" width="100%" controls muted=""></video>
 > 

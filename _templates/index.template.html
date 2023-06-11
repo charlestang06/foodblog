@@ -1,42 +1,71 @@
 <!DOCTYPE html>
 <html lang="$lang$">
-<head>
+  <head>
     ${head.partial.html()}
     <title>$if(index_title)$$index_title$ – $endif$nyum</title>
-</head>
-<body>
+  </head>
+  <body>
     <main class="index">
-        <header>
-            <div class="name">
-                <nav>
-                    <a href="index.html"><img class="logo" src="assets/logo2.svg"></a>
-                    <i>⟩</i>
-                </nav>
-                $if(index_title)$
-                    <h1><span>$index_title$</span></h1>
-                $else$
-                    <div>&nbsp;</div>  <!-- fix for weird line-height behavior when there's no block element in the inline-block element .name in safari -->
-                $endif$
-            </div>
-            $if(index_description)$
-                <p>$index_description$</p>
-                <p>Go to back to <a href="https://charlestang.dev" >personal website</a>.</p>
-            $endif$
-            <aside class="search">
-                <input type="text" placeholder="$strings.search_placeholder$" id="search_input" disabled>
-                <div class="results" id="search_output"></div>
-                <script src="assets/search.js"></script>
-            </aside>
-        </header>
-        ${for(categories)}
-            <section>
-                <h2><a href="${it.category_faux_urlencoded}.html">${it.category}</a></h2>
-                ${for(it.recipes)}
-                    ${it:recipe_list_item.partial.html()}
-                ${endfor}
-            </section>
-        ${endfor}
-        ${footer.partial.html()}
+      <header>
+        <div class="name">
+          <nav>
+            <a href="index.html"><img class="logo" src="assets/logo2.svg" /></a>
+            <i>⟩</i>
+          </nav>
+          $if(index_title)$
+          <h1><span>$index_title$</span></h1>
+          $else$
+          <div>&nbsp;</div>
+          <!-- fix for weird line-height behavior when there's no block element in the inline-block element .name in safari -->
+          $endif$
+        </div>
+        $if(index_description)$
+        <p>$index_description$</p>
+        <p>
+          I'm Charles, a current senior at Mass Academy, and my cooking skills
+          are pretty limited. In the past, I have made breakfast eggs or basic
+          fried rice dishes, but nothing fancier than home-friendly foods. In
+          fact, I recently participated in Mass Academy's cooking club run by
+          Ms. Small and Dr. Crowthers, which I greatly enjoyed. My SISP project
+          is to spend at least 100 hours to become more skillful at cooking and
+          experienced with various cultures and flavors around the globe. From
+          learning different cooking tools to playing around with different
+          spice combinations, I will embark on a journey across the world while
+          staying in the vicinity of my kitchen.
+        </p>
+        <p>
+          Furthermore, I hope to gain food blogging and photography skills by
+          creating a food blog/online cookbook website showcasing my work. I
+          hope you enjoy exploring these recipes I cook! I will also be leaving
+          my personal reviews on each recipe I cook, and since I have a very
+          particular taste for foods, don't get too riled up by my ratings; I am
+          just a high school student.
+        </p>
+        <p>
+          Go back to
+          <a href="https://charlestang.dev">personal website</a> to learn more
+          about my interests and academic work.
+        </p>
+        $endif$
+        <aside class="search">
+          <input
+            type="text"
+            placeholder="$strings.search_placeholder$"
+            id="search_input"
+            disabled
+          />
+          <div class="results" id="search_output"></div>
+          <script src="assets/search.js"></script>
+        </aside>
+      </header>
+      ${for(categories)}
+      <section>
+        <h2>
+          <a href="${it.category_faux_urlencoded}.html">${it.category}</a>
+        </h2>
+        ${for(it.recipes)} ${it:recipe_list_item.partial.html()} ${endfor}
+      </section>
+      ${endfor} ${footer.partial.html()}
     </main>
-</body>
+  </body>
 </html>
