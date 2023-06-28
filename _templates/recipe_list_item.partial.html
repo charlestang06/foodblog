@@ -40,9 +40,15 @@ $if(show_images_on_index)$
     <a href="${it.htmlfile}"><span>${it.title}</span></a>
     $if(it.original_title)$<em>$it.original_title$</em>$endif$
   </h3>
+  <div style="display:flex">
+  $if(it.date)$
+  <p style="font-family: Barlow, Fabrikat, Helvetica, sans-serif; width:50%; margin:0">$it.date$</p>
+  $endif$
   $if(it.numeric_rating)$
-  <p style="font-family: Barlow, Fabrikat, Helvetica, sans-serif">Rating: $it.numeric_rating$/10</p>
-  $endif$ $if(it.description)$
+  <p style="font-family: Barlow, Fabrikat, Helvetica, sans-serif; width:50%; margin:0">Rating: $it.numeric_rating$/10</p>
+  $endif$ 
+  </div>
+  $if(it.description)$
   <p>$it.description$</p>
   $endif$ $if(show_images_on_index)$
 </div>

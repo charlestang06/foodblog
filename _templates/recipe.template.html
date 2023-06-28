@@ -2,7 +2,7 @@
 <html lang="$lang$">
 <head>
     ${head.partial.html()}
-    <title>$title$ – $if(index_title)$$index_title$ – $endif$nyum</title>
+    <title>$title$ – $if(index_title)$$index_title$$endif$</title>
 </head>
 <body>
     <main class="recipe">
@@ -67,6 +67,11 @@
                         $it$
                         ${ sep }·
                     ${endfor}
+                </p>
+            $endif$
+            $if(date)$
+                <p>
+                    Cooked on $date$.
                 </p>
             $endif$
             $if(description)$
