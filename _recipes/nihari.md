@@ -14,7 +14,6 @@ author: Adapted from Jamil and Ami
 source: https://jamilghar.com/nihari/
 spicy: ✓
 savory: ✓
-favorite: ✓
 ---
 
 - ### Preparation
