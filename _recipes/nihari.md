@@ -1,5 +1,7 @@
 ---
-title: Nihari (Pakistan)
+title: Nihari
+country: Pakistan
+flag: 🇵🇰
 category: Asia
 description: My third recipe! Nihari is a Pakistani beef stew made with a lot of spices and seasoning, as well as beef shank. I decided to use an Instant Pot version of this recipe to make it cook faster, cut down on the portioning, and made some substitutions along the way. 
 date: June 14, 2023
@@ -12,6 +14,7 @@ author: Adapted from Jamil and Ami
 source: https://jamilghar.com/nihari/
 spicy: ✓
 savory: ✓
+favorite: ✓
 ---
 
 - ### Preparation

@@ -1,5 +1,7 @@
 ---
-title: Momo (Nepal)
+title: Momo
+country: Nepal
+flag: 🇳🇵
 category: Asia
 description: My fifth recipe! Since I have a Nepali friend, they showed me how to make one of the most popular dishes in Nepal, momo! Essentially, momo are dumplings, commonly served with a spicy tomato sauce. We made 175 momo, but this recipe below is scaled down for 100. It's also a popular street food in Nepal, and can be served for any event!
 date: June 26, 2023
@@ -12,6 +14,7 @@ author: Friend
 salty: ✓
 umami: ✓
 spicy: ✓
+favorite: ✓
 ---
 
 - ### Preparation

@@ -1,5 +1,7 @@
 ---
-title: Stamppot (Netherlands)
+title: Stamppot
+country: Netherlands
+flag: 🇳🇱
 category: Europe
 description: My fourth recipe! Stamppot is a Dutch dish that is essentially mashed potatoes with vegetables. I decided to used kale as my vegetable and served it with kielbasa sausage. It was a very simple yet hearty dish, and I really enjoyed it! I especially liked the creaminess of the mashed potatoes and how it goes with the sausage.
 date: June 17, 2023

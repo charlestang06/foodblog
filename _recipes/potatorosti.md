@@ -1,5 +1,7 @@
 ---
-title: Potato Rosti (Switzerland)
+title: Potato Rosti
+country: Switzerland
+flag: 🇨🇭
 category: Europe
 description: My first recipe! Potato Rosti is an easy pan-fried potato "pancake" that is crispy on the outside and *extremely* buttery on the inside. t is a popular breakfast dish in Switzerland. This was also my first time using a box grater!
 date: May 30, 2023
