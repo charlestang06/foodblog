@@ -4,7 +4,19 @@
     ${head.partial.html()}
     <title>$if(index_title)$$index_title$$endif$</title>
   </head>
-    
+  <!-- Google tag (gtag.js) -->
+  <script
+    async
+    src="https://www.googletagmanager.com/gtag/js?id=G-GYG67PMMJZ"
+  ></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag() {
+      dataLayer.push(arguments);
+    }
+    gtag("js", new Date());
+    gtag("config", "G-GYG67PMMJZ");
+  </script>
   <body>
     <main class="index">
       <header>

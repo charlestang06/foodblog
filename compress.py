@@ -15,14 +15,14 @@ def compress_images_with_numbers(folder_path):
         file_path = os.path.join(subfolder_path, filename)
 
         # Check if the file is a JPEG image with a number in its name
-        if filename.lower().endswith(".jpg") and any(char.isdigit() for char in filename) and "stamppot" in filename:
+        if filename.lower().endswith(".jpg") and "kimchi" in filename: # and any(char.isdigit() for char in filename) and "stamppot" in filename:
             try:
                 # Open the image using PIL
                 image = Image.open(file_path)
 
                 # Compress the image (adjust the quality as desired)
                 compressed_image = image.copy()
-                compressed_image.save(file_path, "JPEG", quality=50)
+                compressed_image.save(file_path, "JPEG", quality=40)
 
                 print(f"Compressed image: {file_path}")
 
