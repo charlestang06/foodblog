@@ -52,7 +52,7 @@ vegan: ✓
 
 > Watch me get Switzerland on the country picker! I used a country wheel to randomize the country selected, so that I can make sure to try a variety of dishes from different countries.
 >
-> <video src="potatorostiwheel.mkv" width="100%" controls></video>
+> <video src="potatorostiwheel.mp4" width="100%" controls muted=""></video>
 > 
 > Watch me flip the rosti! I kind of fumbled with the plate but still got it anyhow! In the future, I will try to flip the rosti like a pro.
 > 

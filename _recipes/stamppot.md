@@ -60,7 +60,7 @@ savory: ✓
 
 > Watch me roll the Netherlands on the country picker!
 >
-> <video src="stamppotwheel.mkv" width="100%" controls></video>
+> <video src="stamppotwheel.mkv" width="100%" controls muted=""></video>
 > 
 > Credits to @toomanybites (my sister) for the main photo. Here are some more pictures throughout the process of cooking the stew. It was a very straightforward and easy process.
 > 

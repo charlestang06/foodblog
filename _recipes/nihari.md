@@ -52,7 +52,7 @@ savory: ✓
 
 > Watch me roll Pakistan on the country picker!
 >
-> <video src="nihariwheel.mkv" width="100%" controls></video>
+> <video src="nihariwheel.mkv" width="100%" controls muted=""></video>
 > 
 > Credits to @toomanybites (my sister) for the main photo. Here are some more pictures throughout the process of cooking the stew. It was a relatively straightforward and easy process, but deglazing the pot was a hassle at times. It looks really delicious!
 > 

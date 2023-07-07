@@ -81,7 +81,7 @@ vegan: ✓
 
 > Watch me get Gambia on the country picker!
 >
-> <video src="domodawheel.mkv" width="100%" controls></video>
+> <video src="domodawheel.mkv" width="100%" controls muted=""></video>
 > 
 > Here are some more pictures throughout the process of cooking the stew. It was a mess at first since I put too much water (or too much sweet potatoes), so I had to scoop water out midway, the consistency turned out alright at the end, however. The simmering process did not boil out as much water as I had hoped to either.
 > 
