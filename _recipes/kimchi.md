@@ -29,7 +29,7 @@ salty: ✓
 - `4.5 oz` daikon radish (peeled and cut into matchsticks)
 - `2 scallions` (trimed and cut into 1-inch pieces)
 
-> <!--<img src="kimchi2.jpg" width="100%" ></img> -->
+> <img src="kimchi2.jpg" width="100%" ></img>
 > 
 > Cut the cabbage into a half through the center. Then, cut the cabbage half through the stem into quarters. Cut the core out. Then, cut each quarter crosswise into 2-in wide strips.
 >
@@ -67,9 +67,9 @@ salty: ✓
 >
 > **Day 2**
 >
-> There wasn't enough brine, so I added a mixture of sea salt and water.
-> 
-> Coming soon!
+> There wasn't enough brine, so I added a mixture of sea salt and water. Tip of the day for food photagraphy: when taking pictures horizontally, make sure the food lines up with the horizon and side lines.
+>
+> <img src="kimchi4.jpg" width="100%" ></img> 
 > 
 > **Day 3**
 > 

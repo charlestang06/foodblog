@@ -1,11 +1,13 @@
 $if(show_images_on_index)$
 <div class="entry">
   $endif$ $if(show_images_on_index)$
-  <div
-    class="servingsuggestion"
-    $if(it.image)$style="background-image: url($it.image$);"
-    $endif$
-  ></div>
+  <a href="${it.htmlfile}">
+    <div
+      class="servingsuggestion"
+      $if(it.image)$style="background-image: url($it.image$);"
+      $endif$
+    ></div>
+  </a>
   $endif$
   <h3>
     <i class="icons">
@@ -39,7 +41,7 @@ $if(show_images_on_index)$
     </i>
     <div>
       <a href="${it.htmlfile}"><span>${it.title}</span></a>
-      <div class="tooltip" style="display: inline-block;">
+      <div class="tooltip" style="display: inline-block">
         <span
           style="
             font-family: NotoColorEmojiLimited, Barlow, Fabrikat, Helvetica,
