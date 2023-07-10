@@ -4,7 +4,7 @@ country: Korea
 flag: 🇰🇷
 category: Asia
 description: My seventh recipe! I have never made fermented foods (pickles, kimchi, etc) before and this was definitely a first. This recipe used many Asian ingredients, which are sometimes a pain in the rear end to obtain (such as gochugaru spice).
-date: July 5, 2023
+date: July 5-11, 2023
 rating: Rating TBD/10, come back in a few days for a review after it ferments!
 numeric_rating: TBD
 image: kimchi.jpg
@@ -85,10 +85,12 @@ salty: ✓
 > 
 > **Day 5**
 > 
-> Coming soon!
+> <img src="kimchi7.jpg" width="100%" ></img> 
+>
+> I tasted the kimchi with a chopstick (again) and pushed down on the kimchi to keep it under the brine. Make sure that you taste it AFTER you push it down, to prevent contamination and such. It tastes a little more sour from the previous day, but still has a good amount of salt and spice. I will cook up a kimchi fried rice tomorrow!
 > 
 > **Day 6 (Ready to Eat!)**
-> 
+>
 > Coming soon! I might make the kimchi with fried rice. Fun fact: I went on a Hannaford's spree to get garlic and fish sauce since we ran out midway! My sister also told me some tips for taking pictures of food: hold the camera at a completely horizontal, 45 degree, or directly above the food in question.
 
 --- 
@@ -101,8 +103,19 @@ salty: ✓
 - `1 tsp` salt
 - `2 oz` spam (chopped into small cubes)
 - `1 tbsp` vegetable oil
+- `1` green onion (chopped into 1/2-in pieces)
 
 
 > This is a on-the-spot recipe I thought of when looking through ingredients in my kitchen. Below are some steps (and pictures!) of the process of using kimchi.
 >
-> Coming soon!
+> In a large wok, heat the vegetable oil over medium heat. 
+> 
+> Add the spam and cook until browned, about 4 minutes. 
+> 
+> Then, Add the rice and kimchi simultaneously cook for 5 minutes, stirring occasionally.  
+> 
+> Drizzle the sesame oil and salt over the rice and cook for 1 minute. Serve hot.
+>
+> > > Using the rear side of your spatula, press down on the rice hard to break up any clumps. Chopping will not be sufficient.
+>
+> Serve with green scallions (optional). Enjoy!
