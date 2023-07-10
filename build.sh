@@ -166,6 +166,11 @@ done
 echo "]" >> _temp/search.json
 x cp -r _temp/search.json docs/
 
+file_path="docs/ads.txt"
+content="google.com, pub-3613769409398660, DIRECT, f08c47fec0942fa0"
+echo "$content" > "$file_path"
+echo "Ads.txt has been generated and saved to $file_path."
+
 TIME_END=$(date +%s)
 TIME_TOTAL=$((TIME_END-TIME_START))
 

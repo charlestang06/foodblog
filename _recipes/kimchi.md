@@ -73,11 +73,15 @@ salty: ✓
 > 
 > **Day 3**
 > 
-> Coming soon!
+> <img src="kimchi5.jpg" width="100%" ></img> 
+>
+> Today, I saw a few bubbles come up when opening the lid. I then pressed down on the kimchi a few times to keep it under the brine, then transferred it to the fridge. I will taste it tomorrow to make sure it is on track!
 > 
 > **Day 4**
 > 
-> Coming soon!
+> <img src="kimchi6.jpg" width="100%" ></img> 
+>
+> I tasted the kimchi and it has a slightly sour taste with a good amount of salt and spice. I hope that in the next two days, it will ferment enough to form the full kimchi umami taste, and am very excited for the final product!
 > 
 > **Day 5**
 > 
