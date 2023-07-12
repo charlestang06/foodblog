@@ -1,14 +1,14 @@
 ---
-title: Kimchi
+title: Kimchi (and Fried Rice)
 country: Korea
 flag: 🇰🇷
 category: Asia
-description: My seventh recipe! I have never made fermented foods (pickles, kimchi, etc) before and this was definitely a first. This recipe used many Asian ingredients, which are sometimes a pain in the rear end to obtain (such as gochugaru spice).
+description: My seventh recipe! I have never made fermented foods (pickles, kimchi, etc) before and this was definitely a first. This recipe used many Asian ingredients, which are sometimes a pain in the rear end to obtain (such as gochugaru spice). The outcome came out pretty well, although I think I can balance out the cabbage and radish portions better if I made it again (which I definitely will!).
 date: July 5-11, 2023
-rating: Rating TBD/10, come back in a few days for a review after it ferments!
-numeric_rating: TBD
-image: kimchi.jpg
-size: 6 servings
+rating: Rating 8/10, I love the umami and sour taste combined as well as the light spice from the gochugaru. I also really liked the fried rice, which came out very well without any external seasoning.
+numeric_rating: 8
+image: kimchi8.jpg
+size: 4 servings
 time: 3 hours
 author: Emily Han | the kitchn
 source: https://www.thekitchn.com/how-to-make-easy-kimchi-at-home-189390
@@ -91,7 +91,11 @@ salty: ✓
 > 
 > **Day 6 (Ready to Eat!)**
 >
-> Coming soon! I might make the kimchi with fried rice. Fun fact: I went on a Hannaford's spree to get garlic and fish sauce since we ran out midway! My sister also told me some tips for taking pictures of food: hold the camera at a completely horizontal, 45 degree, or directly above the food in question.
+> <img src="kimchi8.jpg" width="100%" ></img> 
+> 
+>  After the week-long process, I used the kimchi with fried rice. Fun fact: I went on a Hannaford's spree to get garlic and fish sauce since we ran out midway! My sister also told me some tips for taking pictures of food: hold the camera at a completely horizontal, 45 degree, or directly above the food in question.
+>
+> One suggestion that I would make to this recipe is to increase the amount of cabbage by two-fold, as it would have produced more brine and balanced out the radish taste, as well as make the kimchi even more umami and sour.
 
 --- 
 
@@ -106,16 +110,26 @@ salty: ✓
 - `1` green onion (chopped into 1/2-in pieces)
 
 
+> <img src="kimchi9.jpg" width="100%" ></img> 
+> 
 > This is a on-the-spot recipe I thought of when looking through ingredients in my kitchen. Below are some steps (and pictures!) of the process of using kimchi.
 >
 > In a large wok, heat the vegetable oil over medium heat. 
 > 
 > Add the spam and cook until browned, about 4 minutes. 
+>
+> <img src="kimchi10.jpg" width="100%" ></img> 
 > 
 > Then, Add the rice and kimchi simultaneously cook for 5 minutes, stirring occasionally.  
+>
+> <img src="kimchi11.jpg" width="100%" ></img> 
 > 
 > Drizzle the sesame oil and salt over the rice and cook for 1 minute. Serve hot.
 >
 > > > Using the rear side of your spatula, press down on the rice hard to break up any clumps. Chopping will not be sufficient.
 >
 > Serve with green scallions (optional). Enjoy!
+>
+> <img src="kimchi12.jpg" width="100%" ></img> 
+>
+> <img src="kimchi13.jpg" width="100%" ></img> 
