@@ -12,8 +12,8 @@ size: 3 servings
 time: 1.5 hours
 author: The Foreign Fork
 source: https://foreignfork.com/pepian-de-pollo/
-spicy: ✓
 salty: ✓
+favorite: ✓
 ---
 
 - ### Cooking

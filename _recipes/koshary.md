@@ -133,12 +133,6 @@ vegan: ✓
 > <img src="koshary12.jpg" width="100%" ></img> 
 >
 > <img src="koshary13.jpg" width="100%" ></img> 
->
-> <img src="koshary14.jpg" width="100%" ></img> 
-
-
-
-
 
 
 
