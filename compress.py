@@ -15,7 +15,7 @@ def compress_images_with_numbers(folder_path):
         file_path = os.path.join(subfolder_path, filename)
 
         # Check if the file is a JPEG image with a number in its name
-        if filename.lower().endswith(".jpg") and "poutine" in filename: # and any(char.isdigit() for char in filename) and "stamppot" in filename:
+        if filename.lower().endswith(".jpg") and "griot" in filename: # and any(char.isdigit() for char in filename) and "stamppot" in filename:
             try:
                 # Open the image using PIL
                 image = Image.open(file_path)
