@@ -7,6 +7,7 @@ description: My tenth recipe! Bacalhau (or Bacalao in Spanish), is salted fish, 
 date: July 25-August 19, 2023
 rating: Rating 6/10, the salted fish made the dish very fishy and salty, which could have been toned down from soaking for a longer period of time. It was still pretty good overal, and I could've added more vegetables to balance out the taste.
 numeric_rating: 6
+equipment: butcher's paper (I used aluminum foil)
 image: bacalhau.jpg
 size: 3 servings
 time: 2 hours

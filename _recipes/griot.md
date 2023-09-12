@@ -7,6 +7,7 @@ description: My twelth recipe! Haitian Griot is a delicious fried pork dish, usu
 date: July 27-28, 2023
 rating: Rating 6/10, the plantains were amazing and the pork was very flavorful but pretty dry. I think I either overcooked it a bit or I should use a fattier pork next time. The Epis seasoning was great, and I definitely will use it again in future dishes.
 numeric_rating: 6
+equipment: deep fryer (or a large pot)
 image: griot.jpg
 size: 4 servings
 time: 3 hours

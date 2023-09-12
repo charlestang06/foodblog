@@ -7,6 +7,7 @@ description: My third recipe! Nihari is a Pakistani beef stew made with a lot of
 date: June 14, 2023
 rating: Rating 8/10. It was really spicy (maybe it a bit too spicy?) but the flavor was really great and is one of my favorite national dishes so far.
 numeric_rating: 8
+equipment: Instant Pot
 image: nihari.jpg
 size: 4 servings
 time: 1 hours

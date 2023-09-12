@@ -66,7 +66,7 @@ $if(show_images_on_index)$
     <p
       style="
         font-family: Barlow, Fabrikat, Helvetica, sans-serif;
-        width: 50%;
+        width: 25%;
         margin: 0;
       "
     >
@@ -76,11 +76,21 @@ $if(show_images_on_index)$
     <p
       style="
         font-family: Barlow, Fabrikat, Helvetica, sans-serif;
-        width: 50%;
+        width: 25%;
         margin: 0;
       "
     >
       Rating: $it.numeric_rating$/10
+    </p>
+    $endif$ $if(it.equipment)$
+    <p
+      style="
+        font-family: Barlow, Fabrikat, Helvetica, sans-serif;
+        width: 50%;
+        margin: 0;
+      "
+    >
+      Equipment: $it.equipment$
     </p>
     $endif$
   </div>

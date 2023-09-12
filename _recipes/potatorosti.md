@@ -7,6 +7,7 @@ description: My first recipe! Potato Rosti is an easy pan-fried potato "pancake"
 date: May 30, 2023
 rating: Rating 6/10, not bad but not great, not a huge fan of hash-brown type of foods.
 numeric_rating: 6
+equipment: box grater
 image: potatorosti.jpeg
 size: 4-6 servings
 time: 1 hour

@@ -7,6 +7,7 @@ description: My eigth recipe! This is the first North American (and Latin Americ
 date: July 16, 2023
 rating: Rating 9/10, a pretty light and amazing dish, the spices were not too overwhelming and the pumpkin and sesame seeds add a lot of flavor. The chicken was also very tender and juicy, and the sauce was very rich and creamy. I would definitely make this again, but I would probably add more chicken and less broth to make the sauce thicker.
 numeric_rating: 9
+equipment: food processor
 image: pepiandepollo.jpg
 size: 3 servings
 time: 1.5 hours

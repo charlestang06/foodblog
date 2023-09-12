@@ -7,6 +7,7 @@ description: My fifth recipe! Since I have a Nepali friend, they showed me how t
 date: June 26, 2023
 rating: Rating 9/10. Since I like dumplings in general, this will be a hard dish to beat. Maybe pan-fried momo would be even better.
 numeric_rating: 9
+equipment: steamer pot
 image: momo.jpg
 size: 10 servings (~100 momo)
 time: 1.5 hours

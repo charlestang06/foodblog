@@ -7,6 +7,7 @@ description: My fourteenth recipe! Spanish Paella is a delicious seafood rice di
 date: September 4, 2023
 rating: Rating 8/10, I made it with my Spanish friend and the paella turned out really great and the rice was very tender and had the socarrat at the bottom. The flavor was seafood-ey but not too much, and the chicken was very tender. The lemon slices also balanced the flavor well. I should've added more saffron to balance the color or food dye. Furthermore, using fresh seafood probably would've made it better.
 numeric_rating: 8
+equipment: Paelle pan (or a large pan/wok/skillet)
 image: paella.jpg
 size:  8 servings
 time: 3 hours
