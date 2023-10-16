@@ -8,7 +8,7 @@ date: October 16, 2023
 rating: Rating 7.5/10, it was a delicous brunch dish with a good amount of vegetables. The italian sausage was a great add and provided a good kick with the very flavorful sauce. The eggs were cooked a too hard and the dish was very filling. 
 numeric_rating: 7.5
 equipment: Large skillet (or wok)
-image: shakshuka.JPG
+image: shakshuka.jpg
 size:  6 servings
 time: 1.5 hours
 author: Lisa Bryan
