@@ -5,8 +5,8 @@ flag: 🇵🇭
 category: Asia
 description: My seventeenth recipe! Chicken adobo is a popular Filipino dish that is made by marinating chicken in a mixture of vinegar, soy sauce, and garlic. The chicken is then cooked in the marinade and served with rice. The dish is easy to make yet so delicious for meal prepping!
 date: October 16, 2023
-rating: Rating 6.5/10, the chicken was very juicy with a flavorful sauce, and the sauce goes sooo nice with white rice. I think the soy sauce was a bit too salty, and a low sodium soy sauce would be a great alternative. Furthermore, I think the chicken could have been marinated or holes can be poked into the meat for longer to absorb more flavor.
-numeric_rating: 6.5
+rating: Rating 7.5/10, the chicken was very juicy with a flavorful sauce, and the sauce goes sooo nice with white rice. I think the soy sauce was a bit too salty, and a low sodium soy sauce would have been a great alternative. Furthermore, I think the chicken could have been marinated or holes can be poked into the meat for longer to absorb more flavor.
+numeric_rating: 7.5
 equipment: Large skillet (or wok)
 image: chickenadobo.JPG
 size:  6 servings
@@ -14,7 +14,6 @@ time: 1.5 hours
 author: The Modern Proper
 source: https://themodernproper.com/chicken-adobo
 umami: ✓
-spicy: ✓
 ---
 
 - ### Marinading

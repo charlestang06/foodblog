@@ -14,6 +14,7 @@ time: 1 hours
 author: Recipe Vibes
 source: https://www.recipevibes.com/instant-pot-jollof-rice/
 salty: ✓
+spicy: ✓
 ---
 
 - ### Preparation

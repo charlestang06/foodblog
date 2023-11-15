@@ -14,6 +14,7 @@ author: David's Mom
 umami: ✓
 salty: ✓
 vegan: ✓
+favorite: ✓
 ---
 
 - ### Preparation
