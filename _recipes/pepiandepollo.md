@@ -2,7 +2,7 @@
 title: Pepian de Pollo
 country: Guatemala
 flag: 🇬🇹
-category: North America
+category: Americas
 description: My eigth recipe! This is the first North American (and Latin American) dish I made so far. It was a very interesting dish to make, as it used many ingredients that I have never used before (such as pepitas and sesame seeds). The sauce smelled so delicious throughout the process, especially with the blend of toasted seeds. This is also the first time I used a food processor, which I dug up from the basement of my house.
 date: July 16, 2023
 rating: Rating 9/10, a pretty light and amazing dish, the spices were not too overwhelming and the pumpkin and sesame seeds add a lot of flavor. The chicken was also very tender and juicy, and the sauce was very rich and creamy. I would definitely make this again, but I would probably add more chicken and less broth to make the sauce thicker.

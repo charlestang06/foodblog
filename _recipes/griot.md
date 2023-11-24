@@ -2,7 +2,7 @@
 title: Griot
 country: Haiti
 flag: 🇭🇹
-category: North America
+category: Americas
 description: My twelth recipe! Haitian Griot is a delicious fried pork dish, usually served with plantains or tostones. It is a very popular dish in Haiti, and is usually made with a common seasoning mix called Epis. The pork is usually marinated overnight, and then fried in a large pot. 
 date: July 27-28, 2023
 rating: Rating 6/10, the plantains were amazing and the pork was very flavorful but pretty dry. I think I either overcooked it a bit or I should use a fattier pork next time. The Epis seasoning was great, and I definitely will use it again in future dishes.

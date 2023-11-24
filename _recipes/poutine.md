@@ -2,7 +2,7 @@
 title: Poutine
 country: Canada
 flag: 🇨🇦
-category: North America
+category: Americas
 description: My eleventh recipe! Canadian Poutine is made with fries topped with a delicious gravy and squeeeeeeeaky cheese curds (straight from Canada!). It is a hearty dish that is perfect for a cold winter day, yet I cooked it in a heatwave in July. Poutine is a dish that is very popular in Canada, and is a must-try for anyone visiting the country.
 date: July 26, 2023
 rating: Rating 8/10, it was just as I liked it to be. The gravy was delicious (although it could have been better if I actually used real beef stock), and the cheese curds were squeaky and fresh. The fries were nice and salty, and the gravy was hot but not as flavorful as I hoped for. I would definitely make this again, and would probably deep fry my own fries for the next time or try Five Guys fries.
