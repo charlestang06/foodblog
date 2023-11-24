@@ -53,14 +53,14 @@ function search(query) {
         // boost favorites a little
         if (score > 0 && e["favorite"]) score += 2;
 
-        results.push({score: score, e: e});
+        results.push({ score: score, e: e });
     });
 
     results = results
-      .filter(r => r.score > 0)           // filter out non-results
-      .sort((a, b) => b.score - a.score)  // should be "a.score - b.score", but then we'd need to reverse afterwards
-      .slice(0, 10)                       // limit to the best 10 results
-      .map(e => e.e);                     // throw away score
+        .filter(r => r.score > 0)           // filter out non-results
+        .sort((a, b) => b.score - a.score)  // should be "a.score - b.score", but then we'd need to reverse afterwards
+        .slice(0, 10)                       // limit to the best 10 results
+        .map(e => e.e);                     // throw away score
 
     return results;
 }
@@ -93,7 +93,7 @@ function showResults(results) {
             + (e.umami ? `<img src="assets/tabler-icons/tabler-icon-mushroom.svg"> ` : ``)
             + `</i>`
             + `<span>${e.title}</span> `
-            + (e.original_title ? `<em>${e.original_title}</em>` : ``)
+            + `<span>(${e.country})</span> `
             + `</h3>`
             + `</a>`;
     });
