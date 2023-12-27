@@ -79,3 +79,5 @@ favorite: ✓
 > <img src="pepiandepollo8.jpg" width="100%" ></img> 
 >
 > <img src="pepiandepollo9.jpg" width="100%" ></img> 
+>
+> Reflecting on this recipe, this recipe can literally use any combination of tomatoes and veggies to make the suace and make sure to spice it well! Since the tomatoes are very overpowering it is essential to cook it for enough time. 

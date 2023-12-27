@@ -45,3 +45,5 @@ umami: ✓
 > Check out these cheese curds straight from Canada, courtesy to Ms. Julie!! Thanks Ms. Julie!!!
 >
 > <img src="poutine4.jpg" width="100%"></img>
+>
+> Update: I made this again with Five Guys fries (ordered extra crispy) and it was amazing! The fries were so crispy and salty, and the gravy was so flavorful. Ms. Julie brought an even larger bag of cheese curds and it would so delicious. She showed me how to make a roux in an Instant Pot and showed me how she made her gravy. I thought it was a bit too black peppery but is definitely a grown taste. I would also recommend using real beef stock instead of bouillon cubes, as it would make the gravy more flavorful. A quick an easy recipe for on the go!

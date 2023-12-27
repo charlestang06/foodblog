@@ -6,7 +6,7 @@ category: Africa
 description: My sixteenth recipe! Shakshuka is a delicious tomato-based breakfast dish with eggs poached in the sauce. It is a popular dish in the Middle East and North Africa, and is usually served with bread or some other type of grain. The dish is very easy to make and is very customizable with spices and herbs to make it more flavorful. 
 date: October 16, 2023
 rating: Rating 8.5/10, it was a delicious brunch dish with a good amount of vegetables. The Italian sausage was a great add and provided a good kick along with the very flavorful sauce. The eggs were a bit overcooked and the dish was very filling. 
-numeric_rating: 7.5
+numeric_rating: 8.5
 equipment: Large skillet (or wok)
 image: shakshuka.jpg
 size:  6 servings
@@ -62,4 +62,6 @@ favorite: ✓
 > Garnish with parsley and serve while hot with toasted bread (pita/sourdough), pasta, or some other grain for a hearty brunch!
 >
 > Thanks to my friends for cooking this with me!
+>
+> Reflection: Honestly, I don't know what coul have been improved other than adding even more vegetable combinations. It was very visually appealing but I'm just not a huge fan of eating a very tomato-based dish. I think I would have enjoyed it more if I had some more bread (maybe naan would work great) to dip in. I think the eggs were a bit overcooked and I should have taken them out earlier. Definitely a great pasta sauce recipe as well.
 

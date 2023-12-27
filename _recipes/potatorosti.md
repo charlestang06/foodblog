@@ -58,4 +58,3 @@ vegan: ✓
 > Watch me flip the rosti! I kind of fumbled with the plate but still got it anyhow! In the future, I will try to flip the rosti like a pro.
 > 
 > <video src="potatorostiflip.mp4" width="100%" controls muted=""></video>
-> 

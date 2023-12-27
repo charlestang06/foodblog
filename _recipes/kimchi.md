@@ -133,3 +133,5 @@ salty: ✓
 > <img src="kimchi12.jpg" width="100%" ></img> 
 >
 > <img src="kimchi13.jpg" width="100%" ></img> 
+>
+> Reflecting on this recipe, after I watched several other videos on making kimchi, I realized the flavor combos for fermented kimchi is limitless. Have some extra vegetables? Throw it in and see what it can make. Next time, I want to add some julienned zucchini and carrots to the mix to see how it tastes. I also want to try making kimchi pancakes, which look delicious! I may consider adding kimchi as a palette cleanser to my meal prep to add some more flavor!

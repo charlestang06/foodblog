@@ -44,3 +44,5 @@ vegan: ✓
 > Turn the heat to low. Break apart the Golden Curry box into the cubes and stir into the vegetables and water. Stir vigorously until the curry thickens.
 >
 > Serve while hot over rice. Enjoy!
+>
+> Reflecting on this recipe, I japanese curry is so easy with box curry mixes. I plan to make this again with more vegetable combinations and increase the protein to get those gains!!!

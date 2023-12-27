@@ -45,3 +45,5 @@ salty: ✓
 > <img src="pupusa5.jpg" width="100%" ></img>
 > 
 > <img src="pupusa6.jpg" width="100%" ></img>
+>
+> Reflecting on this recipe, as I went through the cooking process, I gradually made the Pupusa's flatter as I went on as the thicker ones weren't well cooked inside. So, I would recommend making the balls as round as possible then flatten it as flat as possible. Then, you can patch up any weak points. Lastly, I think a better mexican blend or specialty cheeses would have enhanced the flavor and using beef birria would have been a great addition to the pupusa as a dip or for the filling.

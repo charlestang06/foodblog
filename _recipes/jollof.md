@@ -58,3 +58,5 @@ spicy: ✓
 > Set instant pot to "rice" mode. Cook until done, about 20 minutes in total.
 >
 > After the instant pot depressurizes, open the lid and serve while hot!
+>
+> Reflecting on this recipe, I think the white pepper is a bit dominating and needs to be toned down. A greater variety of spices such as more ground garlic to flavor the rice would be nicer. I also think that the rice was a bit too mushy, so I would probably use less chicken broth next time. 

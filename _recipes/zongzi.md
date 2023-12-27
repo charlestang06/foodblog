@@ -159,5 +159,21 @@ favorite: ✓
 > <img src="zongzi2.jpg" width="100%" ></img> 
 >
 > <img src="zongzi17.jpg" width="100%" ></img> 
+>
+> Reflecting on this recipe, I think it will be a few years before i could ever attempt this recipe again. It was so painstakingly difficult, and even experienced chefs would take several weeks to master the folding techniques. My grandmother folds them in a special way to make them even larger than normal Zongzi, as normal Zongzi would not be as difficult to fold.
+>
+> Below is a fun poem I wrote in my Poetry class about my experience making Zongzi.
+>
+> Zongzi
+> 
+> after stuffing my stomach’s void with five zongzi and admiring my palms smothered with sticky starchy rice filling i say, i want to make my grandmother’s famous zongzi. a ten-so mile expedition to the formosa market, returning with a bag of premium glutinous rice, twelve ounces of dried bamboo leaves imported from mainland, savory soy sauce and msg submerged pork shoulder, i am ready. 
+> 
+> grandmother by my side, she recites the recipe for the tenth time. 
+> 
+> step one: spread bamboo leaf precisely down length of forearm, scratchy, ticklish like prickly pine needles. 
+> 
+> step 2: fill with spoonful-lump of rice, cool and hard, place pork in the center. deep breaths.
+> 
+> step 3: fold flawlessly, yet my clumsy fingers betray me. rice streams out of my imperfect caving folds, spilling like bouncing beans onto the hard floor. she snatches the half-wrapped mess from my sweaty palms.
 
 

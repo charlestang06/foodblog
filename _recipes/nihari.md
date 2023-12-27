@@ -62,3 +62,5 @@ savory: ✓
 > <img src="nihari3.jpg" width="100%" ></img>
 >
 > <img src="nihari4.jpg" width="100%" ></img>
+>
+> Reflecting on this recipe, the Shan seasoning packet is EXTREMELY POTENT, and very spicy. So, it might be a better idea to use 1/4 packet rather than 1/2 for this recipe, as even a seasoned veteran in eating spices still claimed it was pretty spicy.

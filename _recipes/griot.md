@@ -90,6 +90,8 @@ salty: ✓
 > <img src="griot12.jpg" width="100%" ></img>
 >
 > Serve the pork (griot) with the plantains while hot. Enjoy!
+>
+> Reflecting on this recipe and after discussing with a Haitian local, I realized that using pork chops was the reason of the recipe being too dry. A good replacement would be a fattier cut of pork, such as pork shoulder to make a much more juicier finish. The plantains came out so well, however!
 
 
 

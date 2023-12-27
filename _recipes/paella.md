@@ -96,3 +96,5 @@ favorite: ✓
 > Juice half of the lemon over the rice, then cover with tinfoil and let rest off the heat for 10 minutes. Serve and enjoy while hot!
 >
 > <img src="paella14.jpg" width="100%" ></img> 
+>
+> Reflecting on this recipe, I thought the rice was on the mushier side, so I would recommend using a tad less liquids (chicken stock) and turning up the heat to get a nicer "socarrat" crust on the bottom. Lastly, I would recommend using more saffron threads AND food dye to get a more vibrant yellow color.

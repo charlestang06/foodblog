@@ -52,6 +52,8 @@ umami: ✓
 > <img src="chickenadobo5.JPG" width="100%" ></img>
 >
 > Thanks to my friends for cooking this with me!
+>
+> Reflecting on the recipe, after asking my dad about the soy sauce I used, I realized I used the extra salty soy sauce from Chinatown. If I used a low-sodium soy sauce, it would not have been so salty and I would have enjoyed the reicpe much more. Furthermore, I think the chicken could have been marinated or holes can be poked into the meat for longer to absorb more flavor
 
 
 
